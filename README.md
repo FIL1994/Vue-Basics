@@ -1,6 +1,6 @@
-# vue-app
+# Vue-Basics
 
-> A Vue.js project
+> basics of Vue.js
 
 ## Build Setup
 
